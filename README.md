@@ -1,1 +1,1 @@
-# pacman_exam
+# EOS Program 1
